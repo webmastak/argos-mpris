@@ -1,5 +1,6 @@
 # argos-mpris
 To work with players: auryo, rhythmbox, lollypop.
+
 This script is meant to be used alongside with [Argos GNOME Shell extension](https://github.com/p-e-w/argos).
 
 
